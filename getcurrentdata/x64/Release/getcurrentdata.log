@@ -1,0 +1,13 @@
+﻿  getcurrentdata.cpp
+C:\Users\Firdaus\Desktop\getcurrentdata\getcurrentdata.cpp(56,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Firdaus\Desktop\getcurrentdata\getcurrentdata.cpp(71,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Firdaus\Desktop\getcurrentdata\getcurrentdata.cpp(143,16): warning C4995: 'HD_CURRENT_MOTOR_DAC_VALUES': name was marked as #pragma deprecated
+C:\Users\Firdaus\Desktop\getcurrentdata\getcurrentdata.cpp(244,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Firdaus\Desktop\getcurrentdata\getcurrentdata.cpp(264,24): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Firdaus\Desktop\getcurrentdata\getcurrentdata.cpp(278,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Firdaus\Desktop\getcurrentdata\getcurrentdata.cpp(307,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Firdaus\Desktop\getcurrentdata\getcurrentdata.cpp(330,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Firdaus\Desktop\getcurrentdata\getcurrentdata.cpp(344,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+hdu.lib(hduError.obj) : warning LNK4099: PDB '' was not found with 'hdu.lib(hduError.obj)' or at ''; linking object as if no debug info
+hdu.lib(hduAfx.obj) : warning LNK4099: PDB '' was not found with 'hdu.lib(hduAfx.obj)' or at ''; linking object as if no debug info
+  getcurrentdata.vcxproj -> C:\Users\Firdaus\Desktop\getcurrentdata\x64\Release\getcurrentdata.exe
